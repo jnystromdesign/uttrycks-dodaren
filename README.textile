@@ -1,0 +1,10 @@
+h1. Uttrycks dödare (Expression Killer)
+
+A project to allow people to "kill off" silly expressions like Facebook Killer, Iphone Killer, Holistic approach, Multidemographic, Socialmedialization etc  
+
+h2. 
+
+Planned to have 
+* List for stupid expressions
+* A progressbar that shows how close we are to killing off the expression.
+* Allow users to help kill other persons nominated expressions. 
